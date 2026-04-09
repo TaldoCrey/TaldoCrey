@@ -27,7 +27,7 @@
       </td>
       <td align="center" valign="top" width="33%">
         <h4>Frontend</h4>
-        <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,ts&theme=dark">
       </td>
       <td align="center" valign="top" width="33%">
         <h4>Databases</h4>
